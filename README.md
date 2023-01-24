@@ -6,13 +6,17 @@
 
 - Lara R. Poblet - [@lrpoblet](https://github.com/lrpoblet)
 - Laura García - [@Garcia-Laura](https://github.com/Garcia-Laura)
-- Marta Castrillo - [@martcastrillo](https://github.com/martcastrillo)
+- Marta Castrillo - [@martscastrillo](https://github.com/martscastrillo)
 - Sara Meixoeiro - [@Sameidu](https://github.com/Sameidu)
 - Virginia Álvarez - [@Virginia-Alvarez](https://github.com/Virginia-Alvarez)
 
 ## Resumen
 
 Se trata de una aplicación web que permite crear una tarjeta de visita personalizada. En la página web podemos introducir nuestros datos profesionales y obtener una vista maquetada con esta información.
+
+<img width="1862" alt="Captura de Pantalla 2023-01-24 a las 12 21 12" src="https://user-images.githubusercontent.com/112553001/214279489-f1c8b697-edb0-469f-a0be-06c56f2f9570.png">
+<img width="2030" alt="Captura de Pantalla 2023-01-24 a las 12 21 24" src="https://user-images.githubusercontent.com/112553001/214279509-b9c8e8fa-cb87-4804-b4ac-ce4e5c62d05c.png">
+
 
 La aplicación funciona siguiendo estos pasos:
 
